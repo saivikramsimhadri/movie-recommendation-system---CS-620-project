@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 
 import Form from "react-bootstrap/Form";
 import Row from "react-bootstrap/Row";
@@ -6,7 +6,6 @@ import Col from "react-bootstrap/Col";
 import Button from "react-bootstrap/Button";
 import InputGroup from "react-bootstrap/InputGroup";
 import FormControl from "react-bootstrap/FormControl";
-import ListGroup from "react-bootstrap/ListGroup";
 import Card from "react-bootstrap/Card";
 
 import { ReactComponent as Logo } from "./search_icon.svg";
