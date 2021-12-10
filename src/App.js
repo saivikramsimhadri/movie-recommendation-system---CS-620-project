@@ -16,7 +16,7 @@ function App() {
   const handleMovieSearch = async () => {
     try {
       let res = await fetch(
-        `https://young-frog-81.loca.lt/?movie=${searchText}`
+        `https://fat-mayfly-56.loca.lt/?movie=${searchText}`
       );
 
       const json = await res.json();
